@@ -1,4 +1,4 @@
-module uniswap
+module github.com/cryptothunder/uniswap
 
 go 1.19
 
